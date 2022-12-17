@@ -1,0 +1,17 @@
+D:\TraversalCoreProject\TraversalCoreProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\TraversalCoreProject\TraversalCoreProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+D:\TraversalCoreProject\TraversalCoreProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\TraversalCoreProject\TraversalCoreProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\TraversalCoreProject\TraversalCoreProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\TraversalCoreProject\TraversalCoreProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\TraversalCoreProject\TraversalCoreProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\TraversalCoreProject\TraversalCoreProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\TraversalCoreProject\TraversalCoreProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\TraversalCoreProject\TraversalCoreProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\TraversalCoreProject\TraversalCoreProject\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+D:\TraversalCoreProject\TraversalCoreProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\TraversalCoreProject\TraversalCoreProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+D:\TraversalCoreProject\TraversalCoreProject\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+D:\TraversalCoreProject\TraversalCoreProject\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+D:\TraversalCoreProject\TraversalCoreProject\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+D:\TraversalCoreProject\TraversalCoreProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
