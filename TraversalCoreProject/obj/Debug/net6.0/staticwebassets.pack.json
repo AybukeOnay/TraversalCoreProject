@@ -5,6 +5,234 @@
       "PackagePath": "staticwebassets\\TraversalCoreProject.bundle.scp.css"
     },
     {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\about.html",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\about.html"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\css\\style-liberty.css",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\css\\style-liberty.css"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\images\\banner1.jpg"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\images\\banner2.jpg"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\images\\banner3.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\images\\banner3.jpg"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\images\\banner4.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\images\\banner4.jpg"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\images\\c1.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\images\\c1.jpg"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\images\\c2.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\images\\c2.jpg"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\images\\c3.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\images\\c3.jpg"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\images\\c4.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\images\\c4.jpg"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\images\\close.png",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\images\\close.png"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\images\\date.png",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\images\\date.png"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\images\\dots.png",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\images\\dots.png"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\images\\down.png",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\images\\down.png"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\images\\g1.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\images\\g1.jpg"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\images\\g10.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\images\\g10.jpg"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\images\\g2.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\images\\g2.jpg"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\images\\g3.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\images\\g3.jpg"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\images\\g4.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\images\\g4.jpg"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\images\\g5.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\images\\g5.jpg"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\images\\g6.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\images\\g6.jpg"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\images\\g7.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\images\\g7.jpg"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\images\\g8.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\images\\g8.jpg"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\images\\g9.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\images\\g9.jpg"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\images\\img-sprite.png",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\images\\img-sprite.png"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\images\\team1.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\images\\team1.jpg"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\images\\team2.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\images\\team2.jpg"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\images\\team3.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\images\\team3.jpg"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\images\\team4.jpg",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\images\\team4.jpg"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\js\\all.js",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\js\\all.js"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\js\\app.js"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\js\\jquery.countup.js",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\js\\jquery.countup.js"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\js\\jquery.zoomslider.min.js",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\js\\jquery.zoomslider.min.js"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\js\\lightbox-plus-jquery.min.js",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\js\\lightbox-plus-jquery.min.js"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\js\\modernizr-2.6.2.min.js",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\js\\modernizr-2.6.2.min.js"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\assets\\js\\theme-change.js",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\assets\\js\\theme-change.js"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\blog-single.html",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\blog-single.html"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\blog.html",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\blog.html"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\contact.html",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\contact.html"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\index.html",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\index.html"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\landing-single.html",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\landing-single.html"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\liberty-license-W3Layouts.txt",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\liberty-license-W3Layouts.txt"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\pricing.html",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\pricing.html"
+    },
+    {
+      "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Blog\\services.html",
+      "PackagePath": "staticwebassets\\Traversal-Blog\\services.html"
+    },
+    {
       "Id": "D:\\TraversalCoreProject\\TraversalCoreProject\\TraversalCoreProject\\wwwroot\\Traversal-Starter\\about.html",
       "PackagePath": "staticwebassets\\Traversal-Starter\\about.html"
     },
